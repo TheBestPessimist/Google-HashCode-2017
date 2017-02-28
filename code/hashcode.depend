@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487878873 source:c:\users\cripe\documents\hitman blood money\hashcode\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
